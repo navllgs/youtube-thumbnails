@@ -1,0 +1,24 @@
+@import './base.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  max-width: 1280px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.pill-button {
+  @apply px-4 py-2 rounded-full text-gray-700 bg-gray-200 hover:bg-gray-300;
+}
+
+.pill-button.active {
+  @apply px-4 py-2 rounded-full text-white bg-black;
+}

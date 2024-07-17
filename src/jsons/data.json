@@ -1,0 +1,81 @@
+{
+  "youtubeDataThumbnails": [
+    {
+      "title": "The Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "url": "https://uploads7.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg",
+      "description": "A surreal landscape with melting clocks.",
+      "created_at": "1931-04-01"
+    },
+    {
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "url": "https://uploads4.wikiart.org/images/leonardo-da-vinci/mona-lisa.jpg",
+      "description": "The portrait of Lisa Gherardini, known as Mona Lisa.",
+      "created_at": "1503-01-01"
+    },
+    {
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "url": "https://uploads2.wikiart.org/images/claude-monet/water-lilies.jpg",
+      "description": "A series of approximately 250 oil paintings depicting Monet's flower garden.",
+      "created_at": "1920-01-01"
+    },
+    {
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "url": "https://uploads4.wikiart.org/images/leonardo-da-vinci/mona-lisa.jpg",
+      "description": "The portrait of Lisa Gherardini, known as Mona Lisa.",
+      "created_at": "1503-01-01"
+    },
+    {
+      "title": "The Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "url": "https://uploads7.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg",
+      "description": "A surreal landscape with melting clocks.",
+      "created_at": "1931-04-01"
+    },
+    {
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "url": "https://uploads2.wikiart.org/images/claude-monet/water-lilies.jpg",
+      "description": "A series of approximately 250 oil paintings depicting Monet's flower garden.",
+      "created_at": "1920-01-01"
+    },
+    {
+      "title": "The Persistence of Memory",
+      "artist": "Salvador Dalí",
+      "url": "https://uploads7.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg",
+      "description": "A surreal landscape with melting clocks.",
+      "created_at": "1931-04-01"
+    },
+    {
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "url": "https://uploads2.wikiart.org/images/claude-monet/water-lilies.jpg",
+      "description": "A series of approximately 250 oil paintings depicting Monet's flower garden.",
+      "created_at": "1920-01-01"
+    },
+    {
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "url": "https://uploads4.wikiart.org/images/leonardo-da-vinci/mona-lisa.jpg",
+      "description": "The portrait of Lisa Gherardini, known as Mona Lisa.",
+      "created_at": "1503-01-01"
+    },
+    {
+      "title": "Water Lilies",
+      "artist": "Claude Monet",
+      "url": "https://uploads2.wikiart.org/images/claude-monet/water-lilies.jpg",
+      "description": "A series of approximately 250 oil paintings depicting Monet's flower garden.",
+      "created_at": "1920-01-01"
+    },
+    {
+      "title": "Mona Lisa",
+      "artist": "Leonardo da Vinci",
+      "url": "https://uploads4.wikiart.org/images/leonardo-da-vinci/mona-lisa.jpg",
+      "description": "The portrait of Lisa Gherardini, known as Mona Lisa.",
+      "created_at": "1503-01-01"
+    }
+  ]
+}
